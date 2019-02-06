@@ -1,2 +1,2 @@
 # bill-creator
-A mean stack project that creates bill.
+A mean stack project that creates restaurant bill.
